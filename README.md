@@ -5,7 +5,7 @@
 ### Stop deciding on gut. Start deciding on math.
 
 A specialized AI agent that runs every real decision through 6 battle-tested  
-cognitive frameworks — and delivers a clear, structured recommendation.
+cognitive frameworks, and delivers a clear, structured recommendation.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Compatible](https://img.shields.io/badge/Claude%20Code-Compatible-blue?logo=anthropic)](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
@@ -20,7 +20,7 @@ cognitive frameworks — and delivers a clear, structured recommendation.
 
 You make roughly **35,000 decisions a day.**
 
-For small stuff — what to eat, which show to watch — gut instinct is fine.
+For small stuff, what to eat, which show to watch, gut instinct is fine.
 
 But for the decisions that actually shape your life? Career moves, investments,
 relationships, health? Vibes are a disaster.
