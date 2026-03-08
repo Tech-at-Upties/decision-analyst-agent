@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 good-decisions-only with decision-analyst-agent by UPTIES
+# 🧠 Good-Decisions-Only with Decision-Analyst-Agent by UPTIES
 
-### Stop deciding on vibes. Start deciding on math.
+### Stop deciding on gut. Start deciding on math.
 
 A specialized AI agent that runs every real decision through 6 battle-tested  
 cognitive frameworks — and delivers a clear, structured recommendation.
