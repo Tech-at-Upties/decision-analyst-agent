@@ -16,7 +16,7 @@ cognitive frameworks — and delivers a clear, structured recommendation.
 
 ---
 
-## 🤔 Why This Exists
+##  Why This Exists
 
 You make roughly **35,000 decisions a day.**
 
@@ -37,7 +37,7 @@ This agent fixes all of that. Not with motivation. With math.
 
 ---
 
-## ⚙️ The 6-Framework Engine
+##  The 6-Framework Engine
 
 Every decision gets run through all 6. No shortcuts.
 ```
@@ -87,7 +87,7 @@ Every decision gets run through all 6. No shortcuts.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Option 1 — With Claude Code (Recommended)
 ```bash
@@ -110,7 +110,7 @@ Then in any Claude Code session:
 
 ---
 
-## 💡 Example Decisions It Handles
+##  Example Decisions It Handles
 
 | Decision Type | Example Input |
 |---|---|
@@ -123,7 +123,7 @@ Then in any Claude Code session:
 
 ---
 
-## 📊 Real Example Output
+##  Real Example Output
 
 **Input:** *"I have a stable $120K job. A startup offered me $90K base + equity. Should I switch?"*
 
@@ -152,7 +152,7 @@ Then in any Claude Code session:
 
 ---
 
-## 📚 The Intellectual Foundation
+##  The Intellectual Foundation
 
 These 6 frameworks aren't invented here — they're sourced from the best thinkers in decision science:
 
@@ -175,7 +175,7 @@ These 6 frameworks aren't invented here — they're sourced from the best thinke
 
 ---
 
-## 🗂️ Repo Structure
+##  Repo Structure
 ```
 good-decisions-only/
 ├── decision-analyst.md   ← The full agent prompt (paste this as system prompt)
@@ -186,7 +186,7 @@ good-decisions-only/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Found a framework that should be added? A bias that's missing? PRs are welcome.
 
@@ -197,7 +197,7 @@ Found a framework that should be added? A bias that's missing? PRs are welcome.
 
 ---
 
-## 📜 License
+##  License
 
 MIT — use freely, commercially or personally.
 
