@@ -92,11 +92,11 @@ Every decision gets run through all 6. No shortcuts.
 ### Option 1 — With Claude Code (Recommended)
 ```bash
 # Clone and install
-git clone https://github.com/Pruthavirajsingh/good-decisions-only.git
-cp good-decisions-only/decision-analyst.md ~/.claude/agents/
+git clone https://github.com/Upties/decision-analyst-agent.git
+cp decision-analyst-agent/decision-analyst.md ~/.claude/agents/
 ```
 
-Then in any Claude Code session:
+Then, in any Claude Code session:
 ```
 "Activate decision analyst — I need to think through [your decision]"
 ```
