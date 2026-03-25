@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Good-Decisions-Only with Decision-Analyst-Agent by UPTIES
+# Good-Decisions-Only with Decision-Analyst-Agent by UPTIES
 
 ### Stop deciding on gut. Start deciding on math.
 
